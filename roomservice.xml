@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LuizPauloDamaceno/android_device_lenovo_A6020" path="device/lenovo/A6020" remote="github" revision="cm-13.0" />
-  <project name="LuizPauloDamaceno/android_kernel_lenovo_msm8929" path="kernel/lenovo/msm8929" remote="github" revision="cm-13.0" />
-  <project name="LuizPauloDamaceno/android_vendor_lenovo_A6020" path="vendor/lenovo/A6020" remote="github" revision="cm-13.0" />
+  <project name="boulzordev/android_device_lenovo_A6020" path="device/lenovo/A6020" remote="github" revision="cm-14.1" />
+  <project name="boulzordev/android_kernel_lenovo_msm8929" path="kernel/lenovo/msm8929" remote="github" revision="cm-14.1" />
+  <project name="boulzordev/android_vendor_lenovo_A6020" path="vendor/lenovo/A6020" remote="github" revision="cm-14.1" />
   <project name="CyanogenMod/android_device_cyanogen_msm8916-common" path="device/qcom/common/msm8916" remote="github" revision="cm-13.0" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-13.0" />
   <project path="external/sony/boringssl-compat" name="CyanogenMod/android_external_sony_boringssl-compat" remote="github" revision="cm-13.0"/>
